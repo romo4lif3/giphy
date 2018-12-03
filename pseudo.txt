@@ -1,0 +1,8 @@
+1.ajax call to giphy api 
+2 function event listener
+3. function animate
+4.
+5.
+6.
+7.
+8.
